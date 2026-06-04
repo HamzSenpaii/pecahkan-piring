@@ -1,14 +1,14 @@
-const listImages = [
-    "./assets/images/paper_1.jpg",
-    "./assets/images/paper_2.jpg",
-    "./assets/images/paper_3.jpg",
-    "./assets/images/paper_4.jpg"
+const listPlate = [
+    "./assets/images/plate-1.jpg",
+    "./assets/images/plate-2.jpg",
+    "./assets/images/plate-3.jpg",
+    "./assets/images/plate-4.jpg"
 ];
 let index = 0;
 const images = document.getElementById("images");
-function remes() {
-  if(index < listImages.length -1) {
-    index++;
-  }
-  images.src = listImages[index];
+function pecahkan() {
+    if (index < listPlate.length - 1) {
+        index++;
+    }
+    images.src = listPlate[index];
 }
