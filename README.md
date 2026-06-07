@@ -25,4 +25,4 @@ remes-kertas/
 
 ## Author
 
-Made with ❤️ by HamzSenpaii
+Made with by HamzSenpaii
