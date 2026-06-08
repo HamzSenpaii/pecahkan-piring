@@ -1,4 +1,4 @@
-# pecahkan-piring
+no# pecahkan-piring
 Project web sederhana untuk pecahkan piring secara online menggunakan HTML, CSS, dan JavaScript.
 
 ## Tech Stack
@@ -25,4 +25,4 @@ remes-kertas/
 
 ## Author
 
-Made with by HamzSenpaii
+Made with by **HamzSenpaii**
