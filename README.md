@@ -10,7 +10,7 @@ Project web sederhana untuk pecahkan piring secara online menggunakan HTML, CSS,
 ## Structure
 
 ```bash
-remes-kertas/
+pecahkan-piring/
 ├── assets/
 │   └── images/
 │       ├── paper_1.jpg
