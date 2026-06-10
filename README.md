@@ -1,4 +1,4 @@
-no# pecahkan-piring
+# pecahkan-piring
 Project web sederhana untuk pecahkan piring secara online menggunakan HTML, CSS, dan JavaScript.
 
 ## Tech Stack
@@ -13,10 +13,10 @@ Project web sederhana untuk pecahkan piring secara online menggunakan HTML, CSS,
 pecahkan-piring/
 ├── assets/
 │   └── images/
-│       ├── paper_1.jpg
-│       ├── paper_2.jpg
-│       ├── paper_3.jpg
-│       └── paper_4.jpg
+│       ├── plate-1.jpg
+│       ├── plate-2.jpg
+│       ├── plate-3.jpg
+│       └── plate-4.jpg
 ├── index.html
 ├── style.css
 ├── script.js
