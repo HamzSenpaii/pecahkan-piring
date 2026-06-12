@@ -26,3 +26,7 @@ pecahkan-piring/
 ## Author
 
 Made with by **HamzSenpaii**
+
+---
+
+<p align="center">© 2026 HsTermux – All rights reserved.</p>
